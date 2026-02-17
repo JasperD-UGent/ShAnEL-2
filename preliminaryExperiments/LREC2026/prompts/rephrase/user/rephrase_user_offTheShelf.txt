@@ -1,0 +1,15 @@
+Exercise to be corrected:
+{{
+    "exercise_instruction": "{instruction}",
+    "exercise_item": "{target_sentence}",
+    "response": {response},
+    "example_solution": {example_solution}
+}}
+
+-----
+
+Observations to be taken into account when correcting the exercise:
+- "response" corresponds to the student's rephrasing of "exercise_item".
+- If "response" (1) is grammatically correct, (2) represents an accurate rephrasing of "exercise_item", and (3) adheres to "exercise_instruction", assign True as the value for "correct" and None as the value for "corrected_response" in the requested JSON blob.
+- If "response" is grammatically incorrect, and/or does not represent an accurate rephrasing of "exercise_item", and/or does not adhere to "exercise_instruction", assign False as the value for "correct" and assign a corrected version of "response" as the value for "corrected_response" in the requested JSON blob.
+- The example solution represents a correct answer, but be aware that this is not necessarily the only correct solution.

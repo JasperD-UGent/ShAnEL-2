@@ -1,0 +1,57 @@
+Exercise to be corrected:
+{{
+    "exercise_instruction": "{instruction}",
+    "exercise_item": "{exercise_item}",
+    "example_solution": "{example_solution}"
+}}
+
+-----
+
+RESPONSE_1:
+
+- Student's response for '<gap>' in "exercise_item": "{r_1_response}"
+- Correction:
+{{
+    "correct": {r_1_correct},
+    "corrected_response": {r_1_corrected_resp}
+}}
+
+-----
+
+RESPONSE_2:
+
+- Student's response for '<gap>' in "exercise_item": "{r_2_response}"
+- Correction:
+{{
+    "correct": {r_2_correct},
+    "corrected_response": {r_2_corrected_resp}
+}}
+
+-----
+
+RESPONSE_3:
+
+- Student's response for '<gap>' in "exercise_item": "{r_3_response}"
+- Correction:
+{{
+    "correct": {r_3_correct},
+    "corrected_response": {r_3_corrected_resp}
+}}
+
+-----
+
+RESPONSE_4:
+
+- Student's response for '<gap>' in "exercise_item": "{r_4_response}"
+- Correction:
+{{
+    "correct": {r_4_correct},
+    "corrected_response": {r_4_corrected_resp}
+}}
+
+-----
+
+RESPONSE_5:
+
+- Student's response for '<gap>' in "exercise_item": "{r_5_response}""
+- Correction:

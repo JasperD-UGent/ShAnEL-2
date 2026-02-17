@@ -1,0 +1,38 @@
+{
+    "EN_can-versus-may": {
+        "language": "English",
+        "topic": "*can* versus *may* (+ alternatives)"
+    },
+    "EN_conditionals": {
+        "language": "English",
+        "topic": "conditionals"
+    },
+    "EN_expressionsOfTheFuture": {
+        "language": "English",
+        "topic": "expressions of the future"
+    },
+    "ES_elSubjuntivo": {
+        "language": "Spanish",
+        "topic": "the subjunctive"
+    },
+    "ES_losTiemposDelPasado": {
+        "language": "Spanish",
+        "topic": "past tense forms"
+    },
+    "ES_ser-versus-estar": {
+        "language": "Spanish",
+        "topic": "*ser* versus *estar*"
+    },
+    "NL_deIndirecteRede": {
+        "language": "Dutch",
+        "topic": "indirect speech"
+    },
+    "NL_deRelatieveBijzin": {
+        "language": "Dutch",
+        "topic": "relative clauses"
+    },
+    "NL_hetPerfectum": {
+        "language": "Dutch",
+        "topic": "the present perfect"
+    }
+}
