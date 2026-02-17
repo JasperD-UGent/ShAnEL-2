@@ -1,0 +1,18 @@
+ShAnEL-2
+Copyright (C) 2026  Jasper Degraeuwe and Thomas Moerman
+
+This dataset is free: you can redistribute it and/or modify it 
+under the terms of the ODC-By License as published by the Open 
+Knowledge Foundation, either version 1.0 of the License, or (at 
+your option) any later version.
+
+NO AI TRAINING: Without in any way limiting the authors' 
+exclusive rights under copyright, any use of this publication to 
+"train" generative artificial intelligence (GenAI) technologies to 
+generate text is expressly prohibited.  The authors reserve all 
+rights to license uses of this work for GenAI training and 
+development of machine learning models.
+
+You should have received a copy of the ODC-By 1.0 License
+along with this dataset. If not, see 
+<https://opendatacommons.org/licenses/by/1-0/>.
