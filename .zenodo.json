@@ -16,14 +16,14 @@
         }
     ],
 
-    "license": "Open Data Commons Attribution License v1.0",
+    "license": "odc-by-1.0",
 
     "title": "ShAnEL-2: A Multilingual Benchmarking Dataset for Short-Answer Language Learning Exercises",
 
     "related_identifiers": [
         {
             "scheme": "doi",
-            "identifier": "https://doi.org/10.63317/3cvfqh22muoo",
+            "identifier": "10.63317/3cvfqh22muoo",
             "relation": "isDocumentedBy",
             "resource_type": "publication-article"
         }
