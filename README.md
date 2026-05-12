@@ -2,7 +2,7 @@
 
 ## Dataset
 
-The ShAnEL-2 dataset can be found in the `dataset` directory, together with the file containing the participant metadata. For more details on the dataset, please refer to the corresponding paper presented at the LREC2026 conference (Degraeuwe & Moerman, in press). Please note that the dataset can be used for research purposes only.
+The ShAnEL-2 dataset can be found in the `dataset` directory, together with the file containing the participant metadata. For more details on the dataset, please refer to the corresponding paper presented at the LREC2026 conference (Degraeuwe & Moerman, 2026). Please note that the dataset can be used for research purposes only.
 
 ## Dataset sources
 
@@ -42,7 +42,7 @@ The prompts used in the LREC2026 study can be found in the `preliminaryExperimen
 
 ## References
 
-- Degraeuwe, J., & Moerman, T. (in press). ShAnEL-2: A Multilingual Benchmarking Dataset for Short-Answer Language Learning Exercises.
+- Degraeuwe, J., & Moerman, T. (2026). ShAnEL-2: A Multilingual Benchmarking Dataset for Short-Answer Language Learning Exercises. In *Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)* (pp. 6764–6771). European Language Resources Association (ELRA). https://doi.org/10.63317/3cvfqh22muoo.
 - Devos, R., Fraeters, H., Schoenaerts, P., & Van Loo, H. (2018). *Vanzelfsprekend. Nederlands voor anderstaligen*. Acco Leuven.
 - Neyts, D., Vande Ryse, S., & Braeckman, L. (2022). *ENT2R-niveau 3 Nederlands voor anderstaligen*. Pelckmans.
 - NT2 TaalMenu. (2026). *NT2—B1—Grammatica—Menu Relatieve Bijzinnen*. Retrieved 23 February 2026, from https://nt2taalmenu.nl/nt2-b1-grammatica-relatieve-bijzinnen/
