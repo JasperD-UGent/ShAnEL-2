@@ -1,0 +1,38 @@
+{
+    "upload_type": "dataset",
+
+    "publication_date": "2026-05-12",
+
+    "creators": [
+        {
+            "orcid": "0000-0003-0850-314X",
+            "affiliation": "Ghent University",
+            "name": "Degraeuwe, Jasper"
+        },
+        {
+            "orcid": "0009-0001-6021-8031",
+            "affiliation": "Ghent University",
+            "name": "Moerman, Thomas"
+        }
+    ],
+
+    "license": "Open Data Commons Attribution License v1.0",
+
+    "title": "ShAnEL-2: A Multilingual Benchmarking Dataset for Short-Answer Language Learning Exercises",
+
+    "related_identifiers": [
+        {
+            "scheme": "doi",
+            "identifier": "https://doi.org/10.63317/3cvfqh22muoo",
+            "relation": "isDocumentedBy",
+            "resource_type": "publication-article"
+        }
+    ],
+
+    "keywords": ["benchmarking dataset", "large language models", "second language acquisition", "short-answer exercises", "Dutch", "English", "Spanish"],
+
+    "communities": [
+        {"identifier": "ugent"}
+    ]
+
+}
